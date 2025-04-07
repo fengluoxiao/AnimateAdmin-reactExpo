@@ -1,4 +1,10 @@
 {
+  "types": [
+    "jest",
+    "react-native",
+    "react-test-renderer",
+    "react"
+  ],
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
